@@ -1,5 +1,5 @@
 # pull base image
-FROM centos:lastest
+FROM centos
 
 MAINTAINER	thunderqy <thunder.qy@gmail.com>
 
